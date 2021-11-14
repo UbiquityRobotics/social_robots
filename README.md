@@ -8,3 +8,5 @@ screen and Raspicam 2.  For software I am planinng to us ROS Noetic with ROS-Ser
 Here is a link to video of the project so far:
 
 https://drive.google.com/file/d/19U_x6vFEVjjFgZCUaca_1ppjOqHL-PuS/view?usp=sharing
+
+I also added a draft of an article I was planning to submit to Servo, I would appreciate comments(issues) or edits (pull requests). If you have major suggestions, commit edits to a new branch.
